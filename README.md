@@ -1,6 +1,6 @@
 ### Bem-Vindo, eu sou Pedro Tournillon Drehmer!
 ⌨️ Programando em JAVA, KOTLIN, HTML e CSS. <br>
-🔥 Foco em Back-End.
+🔥 Foco em Backend.
 ##
 
 <div align = "center">
