@@ -1,5 +1,5 @@
 ### Bem-Vindo, eu sou Pedro Tournillon Drehmer!
-⌨️ Programando em JAVA, HTML e CSS. <br>
+⌨️ Programando em JAVA, KOTLIN, HTML e CSS. <br>
 📚 Estudando MySQL. <br>
 🔥 Foco em Back-End.
 ##
@@ -20,6 +20,7 @@
 
 <div align = "center">
   <img alt="Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img alt="Kotlin" height="50" width="50" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img alt="Git"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
