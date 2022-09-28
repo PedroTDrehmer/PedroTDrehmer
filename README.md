@@ -1,6 +1,5 @@
 ### Bem-Vindo, eu sou Pedro Tournillon Drehmer!
 ⌨️ Programando em JAVA, KOTLIN, HTML e CSS. <br>
-📚 Estudando MySQL. <br>
 🔥 Foco em Back-End.
 ##
 
