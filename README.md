@@ -1,5 +1,5 @@
-### Bem-Vindo, eu sou Pedro Tournillon Drehmer!
-⌨️ Desenvolvedor Backend. <br>
+### Bem-Vindo, eu sou Pedro Tournillon Drehmer.
+Desenvolvedor Backend. <br>
 ##
 
 <div align = "center">
