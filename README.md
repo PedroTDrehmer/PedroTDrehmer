@@ -1,5 +1,5 @@
 ### Bem-Vindo, eu sou Pedro Tournillon Drehmer!
-⌨️ Programando em JAVA, KOTLIN, HTML e CSS. <br>
+⌨️ Desenvolvedor Backend. <br>
 ##
 
 <div align = "center">
