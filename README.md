@@ -1,5 +1,6 @@
 ### Bem-Vindo, eu sou Pedro Tournillon Drehmer.
-Desenvolvedor Backend. <br>
+Espaço usado para estudos em Backend. 
+<br>
 ##
 
 <br>
