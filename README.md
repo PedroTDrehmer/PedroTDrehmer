@@ -1,5 +1,5 @@
-### Bem-Vindo, eu sou Pedro Tournillon Drehmer.
-Espaço usado para estudos em Backend. 
+### Welcome,
+Space used for studies in backend.
 <br>
 ##
 
