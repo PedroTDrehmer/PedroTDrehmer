@@ -7,7 +7,7 @@ Space used for studies in backend.
 
 <div align = "center">
   <a href="https://github.com/PedroTDrehmer ">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTDrehmer&layout=compact&langs_count=168&theme=highcontrast"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?PedroTDrehmer=anuraghazra&show_icons=true&theme=radical"/>
 </div>
 
 <br>
