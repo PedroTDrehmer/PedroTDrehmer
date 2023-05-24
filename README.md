@@ -1,8 +1,6 @@
-### Welcome,
-Space used for studies in backend.
+### Welcome!
 <br>
 ##
-
 <br>
 
 <div dir="auto" align = "center">
