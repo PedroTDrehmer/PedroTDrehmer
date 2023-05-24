@@ -3,7 +3,7 @@
 
 <div dir="auto" align = "center">
     <a href="https://github.com/PedroTDrehmer ">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTDrehmer";layout="compact&amp";theme="dracula" style="max-width: 100%"; height="300em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTDrehmer" style="max-width: 100%"; height="300em">
   </a>
 </div>
 
