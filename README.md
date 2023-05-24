@@ -1,7 +1,5 @@
 ### Welcome!
 <br>
-##
-<br>
 
 <div dir="auto" align = "center">
     <a href="https://github.com/PedroTDrehmer ">
